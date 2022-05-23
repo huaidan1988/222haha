@@ -1,7 +1,7 @@
 {
     "name": "222hhhh",
-    "description": "Deploy 222hhhh on Heroku.",
-    "keywords": ["222hhhh"],
+    "description": "Deploy 222hahaha on Heroku.",
+    "keywords": ["222hahaha"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/huaidan1988/222hhhh",
+    "repository": "https://github.com/huaidan1988/222hahaha",
     "stack": "container"
 }
